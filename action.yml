@@ -1,0 +1,5 @@
+name: 'ClickUp Branch Check'
+description: "Checks GitHub pulll request branch for a proper template name"
+runs:
+  using: 'node16'
+  main: 'index.js'
