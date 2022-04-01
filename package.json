@@ -1,6 +1,6 @@
 {
   "name": "clickup-branch-github-action",
-  "version": "1.0",
+  "version": "1.0.0",
   "description": "Checks GitHub pulll request branch for a proper template name",
   "main": "index.js",
   "scripts": {
